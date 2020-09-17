@@ -1,5 +1,5 @@
 COUSIN Clemence
-
+TD Maven
 Exercice 1
 
 Question 4
@@ -46,7 +46,8 @@ Lorsque l'on tape set puis Ctrl + espace, cela crée le bloc pour la méthode se
 Question 7
 Cela permet de renommer la classe ou la variable sélectionnée.
 
-
+Question 8
+Cela affiche la documentation de l'objet String à l'intérieur des fichiers sources.
 
 
 
