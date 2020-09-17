@@ -49,6 +49,13 @@ Cela permet de renommer la classe ou la variable sélectionnée.
 Question 8
 Cela affiche la documentation de l'objet String à l'intérieur des fichiers sources.
 
+TD GIT
+
+Exercice 1
+
+Question 5
+Cela affiche le nombre de différence (et l'endroit où il y a eu des modifications) par rapport aux derniers fichiers commit.
+
 
 
 

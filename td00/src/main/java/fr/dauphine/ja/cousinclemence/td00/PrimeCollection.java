@@ -22,7 +22,7 @@ public class PrimeCollection
 			return true;
 		}
 		boolean indicator = true;
-		for(int i = 2; i < Math.sqrt(p);i++) {
+		for(int i = 2; i < Math.sqrt(p)+1;i++) {
 			if(p%i == 0) {
 				indicator = false;
 				break;
